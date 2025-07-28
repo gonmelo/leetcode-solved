@@ -10,7 +10,7 @@ The goal is to provide explainable solutions in clean code to the different prob
 
 ### 🚧 Progress
 
-Solved: XX / 500  
+Solved: 0 / 500  
 Last updated: July 28, 2025
 
 ### 🧠 Tags
@@ -23,4 +23,3 @@ Last updated: July 28, 2025
 
 Each problem has:
 - A `solution.py` file with the code.
-- A `README.md` explaining the approach and complexity.
