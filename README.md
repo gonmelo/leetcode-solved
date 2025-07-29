@@ -10,12 +10,12 @@ The goal is to provide explainable solutions in clean code to the different prob
 
 ### 🚧 Progress
 
-Solved: 0 / 500  
-Last updated: July 28, 2025
+Solved: 1 / 500  
+Last updated: July 29, 2025
 
 ### 🧠 Tags
 
-[Arrays](tags/arrays.md) | [Dynamic Programming](tags/dynamic-programming.md) | [Graphs](tags/graphs.md)
+[Arrays](tags/arrays.md) | [Sorting](tags/sorting.md) | [Two Pointers](tags/two_pointers.md)
 
 ---
 
