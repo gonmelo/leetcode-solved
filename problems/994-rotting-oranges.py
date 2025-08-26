@@ -1,7 +1,7 @@
 """
 994. Rotting Oranges
 Link: https://leetcode.com/problems/rotting-oranges/
-Difficulty: TODO
+Difficulty: Medium
 
 Approach:
 - TODO: describe the algorithm
